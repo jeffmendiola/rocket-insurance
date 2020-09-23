@@ -6,9 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Heroku Link
 [https://spaceway.herokuapp.com/rating-information](https://spaceway.herokuapp.com/rating-information)
 
-## GitHub
-[https://github.com/jwmendio/rocket-insurance](https://github.com/jwmendio/rocket-insurance)
-
 ## Onboarding
 
 1. `$ git clone https://github.com/jwmendio/rocket-insurance.git`
